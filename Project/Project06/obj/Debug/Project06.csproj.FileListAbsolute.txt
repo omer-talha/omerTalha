@@ -1,0 +1,41 @@
+c:\users\beykent\documents\visual studio 2015\Projects\Project06\Project06\bin\Debug\Project06.exe.config
+c:\users\beykent\documents\visual studio 2015\Projects\Project06\Project06\bin\Debug\Project06.exe
+c:\users\beykent\documents\visual studio 2015\Projects\Project06\Project06\bin\Debug\Project06.pdb
+c:\users\beykent\documents\visual studio 2015\Projects\Project06\Project06\obj\Debug\Project06.csprojResolveAssemblyReference.cache
+c:\users\beykent\documents\visual studio 2015\Projects\Project06\Project06\obj\Debug\Project06.ApplicationForm.resources
+c:\users\beykent\documents\visual studio 2015\Projects\Project06\Project06\obj\Debug\Project06.Properties.Resources.resources
+c:\users\beykent\documents\visual studio 2015\Projects\Project06\Project06\obj\Debug\Project06.csproj.GenerateResource.Cache
+c:\users\beykent\documents\visual studio 2015\Projects\Project06\Project06\obj\Debug\Project06.exe
+c:\users\beykent\documents\visual studio 2015\Projects\Project06\Project06\obj\Debug\Project06.pdb
+c:\users\beykent\documents\visual studio 2015\Projects\Project06\Project06\obj\Debug\Project06.StudentForm.resources
+c:\users\beykent\documents\visual studio 2015\Projects\Project06\Project06\obj\Debug\Project06.EntityDetailForm.resources
+c:\users\beykent\documents\visual studio 2015\Projects\Project06\Project06\obj\Debug\Project06.EntitySummaryForm.resources
+c:\users\beykent\documents\visual studio 2015\Projects\Project06\Project06\obj\Debug\Project06.DataDetailForm.resources
+c:\users\beykent\documents\visual studio 2015\Projects\Project06\Project06\obj\Debug\Project06.DataSummaryForm.resources
+D:\Alttan Görsel Programlama\5. Hafta Vize\Project06\Project06\bin\Debug\Project06.exe.config
+D:\Alttan Görsel Programlama\5. Hafta Vize\Project06\Project06\bin\Debug\Project06.exe
+D:\Alttan Görsel Programlama\5. Hafta Vize\Project06\Project06\bin\Debug\Project06.pdb
+D:\Alttan Görsel Programlama\5. Hafta Vize\Project06\Project06\obj\Debug\Project06.csprojAssemblyReference.cache
+D:\Alttan Görsel Programlama\5. Hafta Vize\Project06\Project06\obj\Debug\Project06.ApplicationForm.resources
+D:\Alttan Görsel Programlama\5. Hafta Vize\Project06\Project06\obj\Debug\Project06.DataDetailForm.resources
+D:\Alttan Görsel Programlama\5. Hafta Vize\Project06\Project06\obj\Debug\Project06.DataSummaryForm.resources
+D:\Alttan Görsel Programlama\5. Hafta Vize\Project06\Project06\obj\Debug\Project06.EntityDetailForm.resources
+D:\Alttan Görsel Programlama\5. Hafta Vize\Project06\Project06\obj\Debug\Project06.EntitySummaryForm.resources
+D:\Alttan Görsel Programlama\5. Hafta Vize\Project06\Project06\obj\Debug\Project06.Properties.Resources.resources
+D:\Alttan Görsel Programlama\5. Hafta Vize\Project06\Project06\obj\Debug\Project06.StudentForm.resources
+D:\Alttan Görsel Programlama\5. Hafta Vize\Project06\Project06\obj\Debug\Project06.csproj.GenerateResource.cache
+D:\Alttan Görsel Programlama\5. Hafta Vize\Project06\Project06\obj\Debug\Project06.csproj.CoreCompileInputs.cache
+D:\Alttan Görsel Programlama\5. Hafta Vize\Project06\Project06\obj\Debug\Project06.exe
+D:\Alttan Görsel Programlama\5. Hafta Vize\Project06\Project06\obj\Debug\Project06.pdb
+D:\Alttan Görsel Programlama\5. Hafta Vize\gitHubProje\Project06\bin\Debug\Project06.exe.config
+D:\Alttan Görsel Programlama\5. Hafta Vize\gitHubProje\Project06\bin\Debug\Project06.exe
+D:\Alttan Görsel Programlama\5. Hafta Vize\gitHubProje\Project06\bin\Debug\Project06.pdb
+D:\Alttan Görsel Programlama\5. Hafta Vize\gitHubProje\Project06\obj\Debug\Project06.csprojAssemblyReference.cache
+D:\Alttan Görsel Programlama\5. Hafta Vize\gitHubProje\Project06\obj\Debug\Project06.ApplicationForm.resources
+D:\Alttan Görsel Programlama\5. Hafta Vize\gitHubProje\Project06\obj\Debug\Project06.EntityDetailForm.resources
+D:\Alttan Görsel Programlama\5. Hafta Vize\gitHubProje\Project06\obj\Debug\Project06.EntitySummaryForm.resources
+D:\Alttan Görsel Programlama\5. Hafta Vize\gitHubProje\Project06\obj\Debug\Project06.Properties.Resources.resources
+D:\Alttan Görsel Programlama\5. Hafta Vize\gitHubProje\Project06\obj\Debug\Project06.csproj.GenerateResource.cache
+D:\Alttan Görsel Programlama\5. Hafta Vize\gitHubProje\Project06\obj\Debug\Project06.csproj.CoreCompileInputs.cache
+D:\Alttan Görsel Programlama\5. Hafta Vize\gitHubProje\Project06\obj\Debug\Project06.exe
+D:\Alttan Görsel Programlama\5. Hafta Vize\gitHubProje\Project06\obj\Debug\Project06.pdb
